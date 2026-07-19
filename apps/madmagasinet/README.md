@@ -164,14 +164,14 @@ Før pilotopgaven kan publiceres, skal følgende fastlægges:
 - godkendte kilder for ernæring, sundhed og fødevaresikkerhed
 - praksis for sponsoreret indhold, affiliate-links og produktprøver
 - måleværktøjer, baseline og evalueringsperiode
-- den første side, som skal forbedres
+- den endelige målemetode og de numeriske succeskriterier for Pandasia-piloten
 
 Uklarhederne er bevidste kontrolpunkter. De må ikke udfyldes med AI-antagelser.
 
 ---
 
-**Status:** Første projektspecifikke struktur klar til pilot
+**Status:** Første projektspecifikke struktur i brug
 
 **Ejer:** Thomas Reberholt
 
-**Næste trin:** Vælg én eksisterende Madmagasinet-side og udfyld et målbart pilotbrief.
+**Næste trin:** Udfyld baseline og kommerciel afklaring i [`content/001_Pandasia_pilotbrief.md`](content/001_Pandasia_pilotbrief.md).
