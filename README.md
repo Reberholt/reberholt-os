@@ -108,15 +108,16 @@ Større ændringer gennemgås og godkendes før de bliver en del af hovedgrenen.
 
 - [x] Etablér Reberholt OS som fælles koncept
 - [x] Definér repositoryets formål og arbejdsmodel
-- [ ] Godkend vision og principper
-- [ ] Dokumentér AI-workflowet
-- [ ] Definér artikelstandarden
-- [ ] Definér SEO- og GEO-standarden
-- [ ] Etablér den første projektspecifikke app-struktur
+- [x] Godkend vision og principper
+- [x] Dokumentér AI-workflowet
+- [x] Definér artikelstandarden
+- [x] Definér SEO- og GEO-standarden
+- [x] Etablér den første projektspecifikke app-struktur
+- [ ] Gennemfør den første målbare Madmagasinet-pilot
 
 ## Status
 
-Reberholt OS er under opbygning. Denne README er fundamentet; næste milepæl er at omsætte principperne til korte, operationelle dokumenter i `docs/` og `core/`.
+Reberholt OS er i praktisk afprøvning. Fundamentet og de første fælles standarder er etableret; næste milepæl er at forbedre én eksisterende Madmagasinet-side fra brief til målt resultat.
 
 ---
 
