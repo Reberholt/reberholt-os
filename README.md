@@ -75,6 +75,7 @@ reberholt-os/
 ├── core/                 # Fælles standarder for AI, SEO, design og workflow
 └── apps/                 # Projektspecifik viden og løsninger
     ├── madmagasinet/
+    ├── printshop-tycoon/ # Mobilspil (Unity) – prototype
     ├── tex-tryk/
     ├── refleksvesten/
     └── akvaponik/
